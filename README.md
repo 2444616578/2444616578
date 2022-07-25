@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @2444616578
+- 👋 Hi, I’m @Michael Rui
 - 👀 I’m interested in ground penetrating radar                                   
 - 🌱 I’m currently learning imaging
 - 💞️ I’m looking to collaborate on ...
